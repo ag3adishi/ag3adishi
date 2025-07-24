@@ -97,7 +97,7 @@
 ## 📬 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/adishi-agrawal )  
-[![Gmail](https://img.shields.io/badge/-adishiagrawal@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adishi.agrawal.stats@gmail.com)
+[![Gmail](https://img.shields.io/badge/-adishi.agrawal.stats@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adishi.agrawal.stats@gmail.com)
 
 ---
 
